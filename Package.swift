@@ -20,7 +20,7 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
                   name: "Ironchipauthenticatorgolangsdk",
-                  path: "Frameworks/Ironchipauthenticatorgolangsdk.framework.zip"
+                  path: "Framework/Ironchipauthenticatorgolangsdk.framework.zip"
               ),
     ]
 )
