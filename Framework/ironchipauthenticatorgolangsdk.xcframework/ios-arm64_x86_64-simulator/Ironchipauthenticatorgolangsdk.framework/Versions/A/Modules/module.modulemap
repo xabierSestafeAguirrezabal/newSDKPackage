@@ -1,8 +1,0 @@
-framework module "Ironchipauthenticatorgolangsdk" {
-	header "ref.h"
-    header "Ironchipauthenticatorgolangsdk.objc.h"
-    header "Universe.objc.h"
-    header "Ironchipauthenticatorgolangsdk.h"
-
-    export *
-}
